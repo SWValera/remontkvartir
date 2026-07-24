@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://forma-remont.ru/sitemap.xml
+Host: https://forma-remont.ru
