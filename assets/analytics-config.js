@@ -1,0 +1,1 @@
+window.YM_COUNTER_ID=0;window.GA_MEASUREMENT_ID="";

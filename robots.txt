@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Sitemap: https://forma-remont.ru/sitemap.xml
-Host: https://forma-remont.ru
+Sitemap: https://premium-remont-kvartir.sw-valera.chatgpt.site/sitemap.xml
+Host: https://premium-remont-kvartir.sw-valera.chatgpt.site
